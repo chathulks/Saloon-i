@@ -46,6 +46,15 @@
     z-index: 1;
 }
 
-.details-css{
+.details-css {
     color: rgb(234, 234, 234);
+}
+
+.bg-imge {
+    background: rgba(0, 0, 0, 0.289) url("bg-images/8d1ea829d216ef05d3ad69313622e409f40a9ffa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100cap;
+    filter: blur(5px);
+    background-blend-mode: darken;
 }
