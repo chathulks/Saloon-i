@@ -58,36 +58,68 @@
     background-blend-mode: darken;
 }
 
-.au-css{
+.au-css {
     color: white;
     text-align: center;
     padding: 10px;
     text-decoration: underline;
 }
 
-.au-css span{
+.au-css span {
     color: rgb(255, 179, 0);
 }
 
-.os-one{
+.os-one {
     color: white;
     text-align: center;
     padding: 10px;
     text-decoration: underline;
 }
 
-.os-one span{
+.os-one span {
     color: rgb(255, 179, 0);
 }
 
-.os-para{
+.os-para {
     text-align: center;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.859);
 }
 
-.os-text{
+.os-text {
     color: rgba(255, 255, 255, 0.799);
     font-size: 20px;
     text-align: center;
+}
+
+.footer-logo {
+    color: rgb(237, 237, 237);
+    font-size: 55px;
+}
+
+.footer-ql-text {
+    color: rgb(237, 237, 237);
+    font-size: 20px;
+}
+
+.ul-group {
+    list-style: none;
+}
+
+.ul-group li a {
+    text-decoration: none;
+    color: rgb(237, 237, 237);
+}
+
+.ul-group li {
+    margin-top: 15px;
+}
+
+.ul-group-2 {
+    list-style: none;
+}
+
+.ul-group-2 li {
+    color: rgb(237, 237, 237);
+    margin-bottom: 20px;
 }
