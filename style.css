@@ -51,10 +51,43 @@
 }
 
 .bg-imge {
-    background: rgba(0, 0, 0, 0.289) url("bg-images/8d1ea829d216ef05d3ad69313622e409f40a9ffa.jpg");
+    background: rgba(0, 0, 0, 0.575) url("bg-images/8d1ea829d216ef05d3ad69313622e409f40a9ffa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100cap;
-    filter: blur(5px);
     background-blend-mode: darken;
+}
+
+.au-css{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.au-css span{
+    color: rgb(255, 179, 0);
+}
+
+.os-one{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.os-one span{
+    color: rgb(255, 179, 0);
+}
+
+.os-para{
+    text-align: center;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.859);
+}
+
+.os-text{
+    color: rgba(255, 255, 255, 0.799);
+    font-size: 20px;
+    text-align: center;
 }
