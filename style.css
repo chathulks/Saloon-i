@@ -25,6 +25,9 @@
 .content h1 {
     margin: 0;
     font-size: 4rem;
+    line-height: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: -10px 10px 20px rgb(71, 71, 71);
 }
 
 .content span {
@@ -35,6 +38,7 @@
     margin-top: 15px;
     font-size: 1.1rem;
     color: rgb(226, 226, 226);
+    text-shadow: -10px 10px 20px rgb(69, 69, 69);
 }
 
 .black-banner {
@@ -54,8 +58,8 @@
     background: rgba(0, 0, 0, 0.575) url("bg-images/8d1ea829d216ef05d3ad69313622e409f40a9ffa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100cap;
     background-blend-mode: darken;
+    position: relative;
 }
 
 .au-css {
@@ -93,7 +97,7 @@
 }
 
 .footer-logo {
-    color: rgb(237, 237, 237);
+    color: rgb(255, 132, 0);
     font-size: 55px;
 }
 
@@ -122,4 +126,10 @@
 .ul-group-2 li {
     color: rgb(237, 237, 237);
     margin-bottom: 20px;
+}
+
+.copy-text{
+    text-align: center;
+    color: rgb(216, 216, 216);
+    font-size: 12px;
 }
