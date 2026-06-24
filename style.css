@@ -27,7 +27,7 @@
     font-size: 4rem;
     line-height: 4rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-shadow: -10px 10px 20px rgb(71, 71, 71);
+    text-shadow: -10px 10px 20px rgba(0, 0, 0, 1);
 }
 
 .content span {
@@ -38,7 +38,7 @@
     margin-top: 15px;
     font-size: 1.1rem;
     color: rgb(226, 226, 226);
-    text-shadow: -10px 10px 20px rgb(69, 69, 69);
+    text-shadow: -10px 10px 20px rgba(0, 0, 0, 1);
 }
 
 .black-banner {
@@ -128,7 +128,7 @@
     margin-bottom: 20px;
 }
 
-.copy-text{
+.copy-text {
     text-align: center;
     color: rgb(216, 216, 216);
     font-size: 12px;
