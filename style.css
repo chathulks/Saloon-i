@@ -133,3 +133,18 @@
     color: rgb(216, 216, 216);
     font-size: 12px;
 }
+
+.about-text{
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+}
+
+.about-text span{
+    font-size: 4rem;
+    color: rgb(255, 145, 55);
+}
+
+.about-text-p{
+    font-size: 1rem;
+    color: rgb(221, 221, 221);
+}
